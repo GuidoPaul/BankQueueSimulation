@@ -1,0 +1,1 @@
+g++ -o main main.cpp getch.cpp init.cpp clrscr.cpp tm.cpp setBackGroundColor.cpp gotoxy.cpp login.cpp hasBar.cpp userToBar.cpp Arrive.cpp Leave.cpp BusinessSelect.cpp showQueue.cpp SystemSelect.cpp SystemLeave.cpp welcome.cpp title.o
